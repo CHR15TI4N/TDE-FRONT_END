@@ -6,8 +6,12 @@
 .headerContainer {
     background-color: #026466;
     color: white;
-    text-align: start;
-    height: 3rem;
-    padding: 15px 0 0 15px;
-    font-size: 20px;
+    height: 100px;
+}
+
+.divContainer {
+    text-align: left;
+    padding-left: 15px;
+    font-size: 30px;
+    padding-top: 25px;
 }
