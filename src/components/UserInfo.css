@@ -1,0 +1,9 @@
+* {
+    margin: auto;
+}
+
+.userInfo {
+    padding-left: 10px;
+    font-size: 20px;
+    margin: 15px 0 0 0;
+}
