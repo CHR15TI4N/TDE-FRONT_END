@@ -1,5 +1,8 @@
 import Header from './components/Header';
 import UserInfo from './components/UserInfo';
+import Box from './components/Box';
+import Numbers from './components/Numbers';
+import Input from './components/Input';
 
 function App() {
   return (
@@ -16,15 +19,17 @@ function App() {
         <UserInfo
           color={"#366"}
           name={"Christian2"}
-          birthday={"30/04/2004"}
+          birthday={"29/04/2004"}
           email={"teste2@email.com"}
         />
         <UserInfo
           color={"#e24"}
           name={"Christian3"}
-          birthday={"30/04/2004"}
+          birthday={"28/04/2004"}
           email={"teste3@email.com"}
         />
+        <Numbers fontColor={"#fff"}/>
+        <Input/>
       </body>
     </div>
   );

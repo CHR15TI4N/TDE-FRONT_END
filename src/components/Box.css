@@ -1,0 +1,14 @@
+.boxContainer {
+    background-color: rgb(4, 0, 255);
+    padding: 45px 55px;
+    margin: 20px;
+    height: 40px;
+}
+
+.buttonEdit {
+    border-bottom: 30px;
+    border-radius: 1rem;
+    padding: 10px 20px;
+    background-color: aqua;
+    border: none;
+}
